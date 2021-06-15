@@ -7,3 +7,5 @@ name|link
 -----|------
 read01.md|[read01.md](https://omar11taha.github.io/reading-notes/read01)
 README.md|[README.md](https://omar11taha.github.io/reading-notes/)
+read02.md|[read02.md](https://omar11taha.github.io/reading-notes/read02)
+grothmindset|[grothmindset](https://omar11taha.github.io/reading-notes/grothmindset)
