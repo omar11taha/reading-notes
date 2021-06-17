@@ -1,4 +1,4 @@
-#GIT
+# GIT
 **Git** *is a DVCS that stores data in a file system made up of snapshots. Each time you save a changed* 
 
  ## The local Git repository has three components:
