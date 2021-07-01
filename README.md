@@ -6,15 +6,15 @@
 ## code 102 reading notes
 name|link 
 -----|------
-read01.md|[read01.md](https://omar11taha.github.io/reading-notes/read01)
-README.md|[README.md](https://omar11taha.github.io/reading-notes/)
-read02.md|[read02.md](https://omar11taha.github.io/reading-notes/read02)
-grothmindset|[grothmindset](https://omar11taha.github.io/reading-notes/grothmindset)
+read01.md|[read01.md](https://omar11taha.github.io/reading-notes/102/read01)
+README.md|[README.md](https://omar11taha.github.io/reading-notes/102/read02)
+read02.md|[read02.md](https://omar11taha.github.io/reading-notes/102/read02)
+grothmindset|[grothmindset](https://omar11taha.github.io/reading-notes/102/grothmindset)
 <<<<<<< HEAD
-read03.md | [read03.md](https://omar11taha.github.io/reading-notes/read03)
-read04.md | [read04.md](https://omar11taha.github.io/reading-notes/read04)
-read05.md |[read05.md](https://omar11taha.github.io/reading-notes/read05)
-read06.md |[read06.md](https://omar11taha.github.io/reading-notes/read06)
+read03.md | [read03.md](https://omar11taha.github.io/reading-notes/102/read03)
+read04.md | [read04.md](https://omar11taha.github.io/reading-notes/102/read04)
+read05.md |[read05.md](https://omar11taha.github.io/reading-notes/102/read05)
+read06.md |[read06.md](https://omar11taha.github.io/reading-notes/102/read06)
 ## code 201 reading notes
 name | link
 -----|------
