@@ -10,7 +10,6 @@ read01.md|[read01.md](https://omar11taha.github.io/reading-notes/102/read01)
 README.md|[README.md](https://omar11taha.github.io/reading-notes/102/read02)
 read02.md|[read02.md](https://omar11taha.github.io/reading-notes/102/read02)
 grothmindset|[grothmindset](https://omar11taha.github.io/reading-notes/102/grothmindset)
-<<<<<<< HEAD
 read03.md | [read03.md](https://omar11taha.github.io/reading-notes/102/read03)
 read04.md | [read04.md](https://omar11taha.github.io/reading-notes/102/read04)
 read05.md |[read05.md](https://omar11taha.github.io/reading-notes/102/read05)
@@ -33,9 +32,7 @@ read12 | [read12.md]()
 read13 | [read13.md]()
 read14a | [read14a.md]()
 read14b | [read14b.md]()
-=======
 read03.md | [read03](https://omar11taha.github.io/reading-notes/read03)
 read04.md | [read04.md](https://omar11taha.github.io/reading-notes/read04)
 read05.md |[read05.md](https://omar11taha.github.io/reading-notes/read05)
 read06.md |[read06.md](https://omar11taha.github.io/reading-notes/read06)
->>>>>>> 405898da1071c742a4fdf6cd1f93d451e93a12e5
