@@ -1,3 +1,4 @@
+<!-- from online -->
 ## Women Stopped Coding
 1. What occured during the same time as the beginning of the decline of women in computer sciene?
 In the 1990s, researcher Jane Margolis interviewed hundreds of computer science students at Carnegie Mellon University, which had one of the top programs in the country. She found that families were much more likely to buy computers for boys than for girls — even when their girls were really interested in computers.
