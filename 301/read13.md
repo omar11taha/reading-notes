@@ -9,7 +9,7 @@ Movies like Weird Science, Revenge of the Nerds and War Games all came out in th
 ## breakdown of key technology companies
 
 *What three take-a-ways do you have looking at this data?
-1.GENDER 
+1. GENDER 
 2. ETHNICITY
 3. YEAR
 
